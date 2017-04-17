@@ -1,4 +1,4 @@
-package com.cuber.aio;
+package com.cuber.aio.server;
 
 import java.nio.ByteBuffer;
 import java.nio.channels.AsynchronousSocketChannel;
